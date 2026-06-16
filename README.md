@@ -12,11 +12,10 @@
 
 ### 🚀 Tentang Saya
 
-- 🎓 Mahasiswa Teknologi Informasi yang masih terus belajar dan mencoba banyak hal di dunia programming
-- 🧩 Saat ini eksplorasi di beberapa jalur: **Object-Oriented Programming (C#)**, **Mobile Development (Flutter/Dart)**, **Web Development (PHP)**, dan **Algoritma (Python)**
-- 📚 Banyak repo saya berasal dari tugas kuliah & latihan — tempat saya mencoba konsep baru sebelum dipakai di proyek nyata
-- 🌱 Sedang mendalami pengembangan aplikasi yang lebih terstruktur dan rapi, baik dari sisi kode maupun dokumentasi
-- 💬 Terbuka untuk diskusi, kolaborasi proyek kecil, atau sekadar ngobrol soal coding
+- Mahasiswa Teknologi Informasi yang masih terus belajar dan mencoba banyak hal di dunia programming
+- Saat ini eksplorasi di beberapa jalur: **Object-Oriented Programming (C#)**, **Mobile Development (Flutter/Dart)**, **Web Development (PHP)**, dan **Algoritma (Python)**
+- Sedang mendalami pengembangan aplikasi yang lebih terstruktur dan rapi, baik dari sisi kode maupun dokumentasi
+- Terbuka untuk diskusi, kolaborasi proyek kecil, atau sekadar ngobrol soal coding
 
 ---
 
