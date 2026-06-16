@@ -53,11 +53,6 @@
 <div align="center">
 
 <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=FahrezaAdam&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-> Catatan: widget trophy di atas pakai layanan gratis pihak ketiga yang kadang lambat/gagal muncul karena dipakai banyak orang. Kalau sering tidak muncul, hapus saja blok ini — stats & streak di atasnya tetap jalan normal tanpa trophy.
-
 ---
 
 ### 🌐 Terhubung dengan Saya
