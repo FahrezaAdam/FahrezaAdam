@@ -50,9 +50,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=FahrezaAdam&theme=tokyonight&no-frame=true&row=1&column=6" />
 ---
 
 ### 🌐 Terhubung dengan Saya
