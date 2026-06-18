@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hai, saya Fahreza Adam Nuardiansyah 👋
+# Hai, saya Fahreza Adam Nuardiansyah 
 
 ### Mahasiswa Teknologi Informasi yang sedang menjelajahi berbagai bidang dunia development
 
