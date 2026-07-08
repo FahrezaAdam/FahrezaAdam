@@ -4,13 +4,11 @@
 
 ### Mahasiswa Teknologi Informasi yang sedang menjelajahi berbagai bidang dunia development
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Belajar+OOP+dengan+C%23;Membangun+aplikasi+mobile+dengan+Flutter;Eksplorasi+Web+Development+dengan+PHP;Mengasah+logika+lewat+Python+%26+Algoritma)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
-### 🚀 Tentang Saya
+### Tentang Saya
 
 - Mahasiswa Teknologi Informasi yang masih terus belajar dan mencoba banyak hal di dunia programming
 - Saat ini eksplorasi di beberapa jalur: **Object-Oriented Programming (C#)**, **Mobile Development (Flutter/Dart)**, **Web Development (PHP)**, dan **Algoritma (Python)**
@@ -19,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -38,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -51,7 +49,7 @@
 
 ---
 
-### 🌐 Terhubung dengan Saya
+### Terhubung dengan Saya
 
 <div align="center">
 
