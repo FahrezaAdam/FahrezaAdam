@@ -67,18 +67,9 @@ Mahasiswa Teknologi Informasi yang berfokus pada **Full Stack Software Developme
 
 ---
 
-### GitHub Activity & Contribution Snake
+### GitHub Activity & Statistics
 
 <div align="center">
-
-  <!-- Contribution Grid Eating Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahrezaAdam/FahrezaAdam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahrezaAdam/FahrezaAdam/output/github-contribution-grid-snake.svg">
-    <img width="100%" alt="GitHub Contribution Grid Eating Snake" src="./github-contribution-grid-snake-dark.svg">
-  </picture>
-
-  <br /><br />
 
   <!-- Activity Waveform Graph -->
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahrezaAdam&theme=tokyonight&hide_border=true&area=true" />
@@ -125,6 +116,13 @@ Terbuka untuk diskusi teknis, kolaborasi proyek full stack, maupun bertukar ide.
 </p>
 
 ---
+
+<!-- Contribution Snake at the bottom -->
+<div align="center">
+  <img width="100%" src="./github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
+
+<br />
 
 <div align="center">
   <sub>Crafted by <b>Fahreza Adam Nuardiansyah</b></sub>
