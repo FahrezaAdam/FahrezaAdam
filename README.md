@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Fahreza+Adam+Nuardiansyah;Backend+%26+Software+Developer;Node.js+|+Laravel+|+ASP.NET+Core+|+Python;Building+Web,+Mobile,+%26+IoT+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Fahreza+Adam+Nuardiansyah;Full+Stack+Software+Developer;React+|+Next.js+|+Node.js+|+Laravel;Building+Web,+Mobile,+%26+Cloud+Apps" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Indonesia-007ACC?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Role-Backend%20%26%20Software%20Dev-61dafb?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-61dafb?style=for-the-badge&logoColor=black" />
     <img src="https://komarev.com/ghpvc/?username=FahrezaAdam&color=61afef&style=for-the-badge&label=Profile+Views" />
   </p>
 
@@ -22,9 +22,10 @@
 ```json
 {
   "name": "Fahreza Adam Nuardiansyah",
-  "role": "Backend & Software Developer",
+  "role": "Full Stack Software Developer",
   "location": "Indonesia",
-  "core_stack": ["Node.js / Express", "PHP / Laravel", "C# / ASP.NET Core", "Python", "Flutter"],
+  "frontend": ["React", "Next.js", "Flutter", "Tailwind CSS"],
+  "backend": ["Node.js / Express", "PHP / Laravel", "C# / ASP.NET Core", "Python"],
   "databases": ["MySQL", "PostgreSQL", "Supabase", "Firebase"]
 }
 ```
@@ -33,20 +34,25 @@
 
 ### About & What I Do
 
-Mahasiswa Teknologi Informasi yang berfokus pada software engineering. Suka mempelajari ekosistem teknologi baru, menulis kode yang terstruktur (clean architecture), dan membangun aplikasi yang fungsional.
+Mahasiswa Teknologi Informasi yang berfokus pada **Full Stack Software Development**. Mengembangkan solusi aplikasi web dan mobile end-to-end dengan mengintegrasikan antarmuka pengguna yang responsif, arsitektur backend yang andal, serta basis data yang efisien.
 
-- **Backend Development**: Membangun RESTful API & sistem backend terstruktur menggunakan Node.js/Express, Laravel, dan ASP.NET Core.
-- **Database Systems**: Merancang skema basis data ter-normalisasi dan manajemen data dengan MySQL, PostgreSQL, Supabase, dan Firebase.
-- **Mobile & Real-time**: Pengembangan aplikasi cross-platform dengan Flutter serta integrasi sistem real-time (MQTT / IoT).
-- **Engineering Mindset**: Memperdalam pemahaman Clean Code, Object-Oriented Design (SOLID), dan Version Control Workflow.
+- **Frontend & Mobile**: Merancang antarmuka pengguna yang interaktif dan responsif menggunakan **React**, **Next.js**, **Flutter**, dan **Tailwind CSS**.
+- **Backend & APIs**: Mengembangkan logika server, arsitektur RESTful API terstruktur, dan mikroservis menggunakan **Node.js/Express**, **Laravel**, dan **ASP.NET Core**.
+- **Database & Cloud**: Merancang skema basis data ter-normalisasi dan mengelola data menggunakan **MySQL**, **PostgreSQL**, **Supabase**, dan **Firebase**.
+- **Engineering Mindset**: Menerapkan prinsip Clean Code, Object-Oriented Programming (SOLID), dan manajemen versi dengan Git workflow.
 
 ---
 
 ### Tech Stack & Tools
 
+#### **Frontend & Mobile Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,bootstrap,html,css,js,ts,figma&perline=10" />
+</p>
+
 #### **Backend & Programming Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,cs,dotnet,python,cpp,dart&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,cs,dotnet,python,cpp,dart&perline=10" />
 </p>
 
 #### **Databases & Cloud Services**
@@ -54,14 +60,9 @@ Mahasiswa Teknologi Informasi yang berfokus pada software engineering. Suka memp
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase&perline=8" />
 </p>
 
-#### **Tools, Protocols & Infrastructure**
+#### **Tools & Ecosystem**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel,figma&perline=8" />
-</p>
-
-#### **Frontend & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel&perline=8" />
 </p>
 
 ---
@@ -98,7 +99,7 @@ Mahasiswa Teknologi Informasi yang berfokus pada software engineering. Suka memp
 
 ### Contact & Connect
 
-Terbuka untuk diskusi teknis, kolaborasi proyek, maupun bertukar ide.
+Terbuka untuk diskusi teknis, kolaborasi proyek full stack, maupun bertukar ide.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahreza-adam-nuardiansyah/">
