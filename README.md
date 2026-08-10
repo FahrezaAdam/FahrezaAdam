@@ -19,7 +19,7 @@
 
 <!-- Pac-Man Animated Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="./pacman.gif" width="100%" alt="Pac-Man Animation" />
 </p>
 
 ```json
@@ -70,7 +70,7 @@ Mahasiswa Teknologi Informasi yang berfokus pada **Full Stack Software Developme
 
 <!-- Pac-Man Animated Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="./pacman.gif" width="100%" alt="Pac-Man Animation" />
 </p>
 
 ### GitHub Activity & Statistics
