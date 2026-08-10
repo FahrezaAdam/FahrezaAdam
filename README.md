@@ -1,12 +1,11 @@
 <div align="center">
 
   <!-- Header Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=650&lines=Fahreza+Adam+Nuardiansyah;Backend+Developer+%26+IT+Student+at+Universitas+Jember;Node.js+|+Laravel+|+ASP.NET+Core+|+Python;Building+RESTful+APIs,+IoT+Systems,+%26+Cloud+Services" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Fahreza+Adam+Nuardiansyah;Backend+%26+Software+Developer;Node.js+|+Laravel+|+ASP.NET+Core+|+Python;Building+Web,+Mobile,+%26+IoT+Systems" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/University-Universitas%20Jember-007ACC?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/GPA-3.96%20%2F%204.00-22c55e?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-61dafb?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/Location-Indonesia-007ACC?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Role-Backend%20%26%20Software%20Dev-61dafb?style=for-the-badge&logoColor=black" />
     <img src="https://komarev.com/ghpvc/?username=FahrezaAdam&color=61afef&style=for-the-badge&label=Profile+Views" />
   </p>
 
@@ -23,38 +22,23 @@
 ```json
 {
   "name": "Fahreza Adam Nuardiansyah",
-  "role": "Backend Developer & IT Student @ Universitas Jember",
-  "gpa": "3.96 / 4.00",
-  "location": "Jember, Indonesia",
-  "core_stack": ["Node.js / Express", "PHP / Laravel", "C# / ASP.NET Core", "Python", "MQTT / IoT"],
-  "databases": ["MySQL", "PostgreSQL", "Supabase", "Firebase"],
-  "experience": [
-    "Teaching Assistant @ Software Engineering Laboratory",
-    "Technology Division @ PPK Ormawa BEM FKM UNEJ"
-  ]
+  "role": "Backend & Software Developer",
+  "location": "Indonesia",
+  "core_stack": ["Node.js / Express", "PHP / Laravel", "C# / ASP.NET Core", "Python", "Flutter"],
+  "databases": ["MySQL", "PostgreSQL", "Supabase", "Firebase"]
 }
 ```
 
 ---
 
-### About Me
+### About & What I Do
 
-Mahasiswa **Teknologi Informasi Universitas Jember** dengan fokus utama pada **Backend Development** dan **Software Engineering**. Berpengalaman merancang arsitektur basis data, membangun RESTful API, mengintegrasikan layanan cloud (Firebase, Supabase), serta menangani komunikasi data real-time pada sistem berbasis IoT. 
+Mahasiswa Teknologi Informasi yang berfokus pada software engineering. Suka mempelajari ekosistem teknologi baru, menulis kode yang terstruktur (clean architecture), dan membangun aplikasi yang fungsional.
 
----
-
-### Experience & Leadership
-
-- **Asisten Praktikum - Laboratorium Rekayasa Perangkat Lunak**: Membimbing mahasiswa dalam praktikum Rekayasa Perangkat Lunak, menyusun modul & bahan ajar, serta mengevaluasi tugas praktikum.
-- **Divisi Teknologi - Tim PPK Ormawa BEM FKM, Universitas Jember**: Mengembangkan sistem backend dan integrasi API untuk website pemantauan banjir yang terhubung dengan sensor IoT di Desa Nogosari.
-
----
-
-### Featured Projects
-
-- **AquaSync**: Sistem monitoring & manajemen kolam otomatis berbasis IoT (ESP32 via MQTT) & website. Memproses data sensor real-time (pH, ketinggian air) dan otomatisasi siklus air.
-- **EarthCare**: Aplikasi mobile pelaporan kerusakan lingkungan berbasis partisipasi publik. Menggunakan Node.js/Express, Firebase Admin SDK, push notification real-time, dan dideploy di Vercel.
-- **Berbagi**: Platform donasi dan penyaluran barang bekas layak pakai secara online berbasis web menggunakan framework Laravel dengan sistem autentikasi terstruktur.
+- **Backend Development**: Membangun RESTful API & sistem backend terstruktur menggunakan Node.js/Express, Laravel, dan ASP.NET Core.
+- **Database Systems**: Merancang skema basis data ter-normalisasi dan manajemen data dengan MySQL, PostgreSQL, Supabase, dan Firebase.
+- **Mobile & Real-time**: Pengembangan aplikasi cross-platform dengan Flutter serta integrasi sistem real-time (MQTT / IoT).
+- **Engineering Mindset**: Memperdalam pemahaman Clean Code, Object-Oriented Design (SOLID), dan Version Control Workflow.
 
 ---
 
@@ -75,7 +59,7 @@ Mahasiswa **Teknologi Informasi Universitas Jember** dengan fokus utama pada **B
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel,figma&perline=8" />
 </p>
 
-#### **Frontend & Supporting Frameworks**
+#### **Frontend & Frameworks**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=8" />
 </p>
@@ -114,7 +98,7 @@ Mahasiswa **Teknologi Informasi Universitas Jember** dengan fokus utama pada **B
 
 ### Contact & Connect
 
-Terbuka untuk kolaborasi proyek, diskusi teknis backend engineering, maupun peluang karir.
+Terbuka untuk diskusi teknis, kolaborasi proyek, maupun bertukar ide.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahreza-adam-nuardiansyah/">
