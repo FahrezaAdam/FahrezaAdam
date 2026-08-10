@@ -17,10 +17,7 @@
 
 </div>
 
-<!-- Pac-Man Animated Divider -->
-<p align="center">
-  <img src="./pacman.gif" width="100%" alt="Pac-Man Animation" />
-</p>
+<br />
 
 ```json
 {
@@ -68,14 +65,20 @@ Mahasiswa Teknologi Informasi yang berfokus pada **Full Stack Software Developme
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel&perline=8" />
 </p>
 
-<!-- Pac-Man Animated Divider -->
-<p align="center">
-  <img src="./pacman.gif" width="100%" alt="Pac-Man Animation" />
-</p>
+---
 
-### GitHub Activity & Statistics
+### GitHub Activity & Contribution Snake
 
 <div align="center">
+
+  <!-- Contribution Grid Eating Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahrezaAdam/FahrezaAdam/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahrezaAdam/FahrezaAdam/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="GitHub Contribution Grid Eating Snake" src="./github-contribution-grid-snake-dark.svg">
+  </picture>
+
+  <br /><br />
 
   <!-- Activity Waveform Graph -->
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahrezaAdam&theme=tokyonight&hide_border=true&area=true" />
