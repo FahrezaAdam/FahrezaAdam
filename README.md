@@ -117,9 +117,13 @@ Terbuka untuk diskusi teknis, kolaborasi proyek full stack, maupun bertukar ide.
 
 ---
 
-<!-- Contribution Snake at the bottom -->
+<!-- Pac-Man Contribution Animation at the bottom -->
 <div align="center">
-  <img width="100%" src="./github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahrezaAdam/FahrezaAdam/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahrezaAdam/FahrezaAdam/output/pacman-contribution-graph.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/FahrezaAdam/FahrezaAdam/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+  </picture>
 </div>
 
 <br />
