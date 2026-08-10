@@ -17,7 +17,10 @@
 
 </div>
 
-<br />
+<!-- Pac-Man Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ```json
 {
@@ -65,7 +68,10 @@ Mahasiswa Teknologi Informasi yang berfokus pada **Full Stack Software Developme
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel&perline=8" />
 </p>
 
----
+<!-- Pac-Man Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ### GitHub Activity & Statistics
 
