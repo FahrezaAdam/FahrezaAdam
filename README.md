@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Header Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Fahreza+Adam+Nuardiansyah;IT+Student+%26+Software+Developer;Building+Mobile+%26+Web+Applications;Exploring+Clean+Architecture+%26+OOP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Fahreza+Adam+Nuardiansyah;IT+Student+%26+Software+Developer;Building+Mobile+%26+Web+Applications;Exploring+Clean+Architecture+%26+OOP" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Location-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-007ACC?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Indonesia-007ACC?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Role-IT%20Student%20%26%20Dev-61dafb?style=for-the-badge&logoColor=black" />
     <img src="https://komarev.com/ghpvc/?username=FahrezaAdam&color=61afef&style=for-the-badge&label=Profile+Views" />
   </p>
@@ -23,7 +23,7 @@
 {
   "name": "Fahreza Adam Nuardiansyah",
   "role": "Information Technology Student & Developer",
-  "location": "Indonesia 🇮🇩",
+  "location": "Indonesia",
   "education": "Department of Information Technology",
   "core_stack": ["Flutter / Dart", "C# / .NET", "PHP", "Python", "MySQL"],
   "current_focus": "Building robust cross-platform mobile apps & clean OOP backends",
@@ -33,38 +33,38 @@
 
 ---
 
-### 📌 About & What I Do
+### About & What I Do
 
 Mahasiswa **Teknologi Informasi** yang berfokus pada software engineering. Suka mempelajari ekosistem teknologi baru, menulis kode yang terstruktur (clean architecture), dan membangun aplikasi yang fungsional.
 
-- 📱 **Mobile Development**: Membangun aplikasi cross-platform performa tinggi menggunakan **Flutter & Dart** dengan penerapan state management (Bloc / Provider).
-- 💻 **Backend & OOP**: Mengembangkan logika aplikasi & RESTful API terstruktur menggunakan **C# (.NET Core)** dan **PHP**.
-- 🗄️ **Database Systems**: Merancang skema basis data ter-normalisasi, optimasi query, dan manajemen data dengan **MySQL**.
-- 🐍 **Logic & Scripting**: Eksplorasi struktur data, algoritma, serta pemrosesan script sederhana dengan **Python**.
-- ⚡ **Engineering Mindset**: Memperdalam pemahaman Clean Code, Object-Oriented Design Principles (SOLID), dan Version Control Workflow.
+- **Mobile Development**: Membangun aplikasi cross-platform performa tinggi menggunakan **Flutter & Dart** dengan penerapan state management (Bloc / Provider).
+- **Backend & OOP**: Mengembangkan logika aplikasi & RESTful API terstruktur menggunakan **C# (.NET Core)** dan **PHP**.
+- **Database Systems**: Merancang skema basis data ter-normalisasi, optimasi query, dan manajemen data dengan **MySQL**.
+- **Logic & Scripting**: Eksplorasi struktur data, algoritma, serta pemrosesan script sederhana dengan **Python**.
+- **Engineering Mindset**: Memperdalam pemahaman Clean Code, Object-Oriented Design Principles (SOLID), dan Version Control Workflow.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
-#### 💻 **Languages & Core**
+#### **Languages & Core**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,cs,php,python,js,html,css,mysql&perline=8" />
 </p>
 
-#### ⚡ **Frameworks & Technologies**
+#### **Frameworks & Technologies**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dotnet,bootstrap,tailwind&perline=8" />
 </p>
 
-#### 🧰 **Developer Tools & Environment**
+#### **Developer Tools & Environment**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,androidstudio&perline=8" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### GitHub Activity & Statistics
 
 <div align="center">
 
@@ -94,9 +94,9 @@ Mahasiswa **Teknologi Informasi** yang berfokus pada software engineering. Suka 
 
 ---
 
-### 🤝 Let's Connect
+### Contact & Connect
 
-Terbuka untuk diskusi teknis, tanya jawab seputar proyek, atau sekadar bertukar ide!
+Terbuka untuk diskusi teknis, tanya jawab seputar proyek, atau sekadar bertukar ide.
 
 <p align="center">
   <a href="https://linkedin.com/in/fahreza-adam-023504330/">
@@ -115,6 +115,5 @@ Terbuka untuk diskusi teknis, tanya jawab seputar proyek, atau sekadar bertukar 
 ---
 
 <div align="center">
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House</p>
-  <sub>Crafted with precision & curiosity by <b>Fahreza Adam Nuardiansyah</b></sub>
+  <sub>Crafted by <b>Fahreza Adam Nuardiansyah</b></sub>
 </div>
